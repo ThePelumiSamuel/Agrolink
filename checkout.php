@@ -38,9 +38,9 @@ require_once "partials/header.php";
         
 
         <?php
-// echo "<pre>";
-// print_r($_SESSION['cart']);
-// echo "</pre>";
+echo "<pre>";
+print_r($_SESSION['cart']);
+echo "</pre>";
 ?>
         <div class="row">
             <div class="col-md-8">
